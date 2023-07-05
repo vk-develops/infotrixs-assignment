@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/infotrixs-assignment/static/css/main.eb0f37d6.css",
+    "main.js": "/infotrixs-assignment/static/js/main.a2a84f65.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/infotrixs-assignment/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/infotrixs-assignment/index.html",
+    "main.eb0f37d6.css.map": "/infotrixs-assignment/static/css/main.eb0f37d6.css.map",
+    "main.a2a84f65.js.map": "/infotrixs-assignment/static/js/main.a2a84f65.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/infotrixs-assignment/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb0f37d6.css",
+    "static/js/main.a2a84f65.js"
+  ]
+}
